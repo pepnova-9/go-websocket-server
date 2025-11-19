@@ -1,6 +1,7 @@
 # About
 This is a simple websocket server implementation from scratch.
 I implemented this for my presentation about WebSocket in CS544 Computer Network 2 class.
+Slide: https://docs.google.com/presentation/d/1kmqNh6qm5QAQaxlluP0yyOO9PyvrsIAL988sH_3zIsY/edit?usp=sharing
 
 # Usage
 If you haven't installed Go yet, please download and install it from https://golang.org/dl/.
